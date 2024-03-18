@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - ⚡ Unix enthusiast, aficionado of low-level and open-source applications.
 
 ##### Activity
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlencarLH)](https://github.com/AlencarLH/github-readme-stats)
