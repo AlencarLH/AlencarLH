@@ -1,3 +1,7 @@
+### 📫 Find me at
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/AlencarLH/)](https://github.com/AlencarLH/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.luis19398@gmail.com)](mailto:defcon.luis19398@gmail.com)
+
 ### Some quick facts
 
 <!--
@@ -8,7 +12,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on developing responsive cross-platform applications.
 - 🌱 I’m currently learning Ruby on Rails and React for web applications.
-- 📫 How to reach me: luis19398@gmail.com
 - ⚡ Unix enthusiast, aficionado of low-level and open-source applications.
 
 ##### Activity
