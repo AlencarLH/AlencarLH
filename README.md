@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on developing cross-platform applications.
+- 🔭 I’m currently working on developing responsive cross-platform applications.
 - 🌱 I’m currently learning Ruby on Rails and React for web applications.
 - 📫 How to reach me: luis19398@gmail.com
 - ⚡ Unix enthusiast, aficionado of low-level and open-source applications.
