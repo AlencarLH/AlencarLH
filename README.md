@@ -1,6 +1,6 @@
 ### 📫 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/AlencarLH/)](https://github.com/AlencarLH/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.luis19398@gmail.com)](mailto:defcon.luis19398@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luis19398@gmail.com)](mailto:luis19398@gmail.com)
 
 ### Some quick facts
 
