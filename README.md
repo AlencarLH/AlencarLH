@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on developing responsive cross-platform applications.
-- 🧠 I’m currently learning Ruby on Rails and React for web applications.
 - 🌌 Enthusiast of Unix systems, data structures, low-level and open-source applications.
 
 <div>
