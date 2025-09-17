@@ -32,5 +32,3 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
     </div>
 
-##### Activity
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlencarLH&langs_count=6&&layout=compact&hide_progress=false&theme=dracula)](https://github.com/AlencarLH/github-readme-stats)
