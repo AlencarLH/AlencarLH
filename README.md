@@ -32,7 +32,7 @@ Here are some ideas to get you started:
     <td width="50%" valign="top">
       <h3 align="center">Otimização de Portfólios 📈</h3>
       <div align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGZ4.../giphy.gif" alt="Demo Otimização" width="100%">
+        <img src="https://github.com/user-attachments/assets/71233d48-e099-4de5-bc02-345ecd15ac5f" alt="Demo Otimização" width="100%">
         <br/><br/>
         <p>
           Otimização de portfólios financeiros utilizando Machine Learning e Efficient Frontier.
@@ -58,7 +58,7 @@ Here are some ideas to get you started:
     <td width="50%" valign="top">
       <h3 align="center">Gerador de Cardápios Inteligente 🍎</h3>
       <div align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjEx.../giphy.gif" alt="Demo Cardápio" width="100%">
+        <img src="https://github.com/user-attachments/assets/ef56824b-3029-484c-bd14-04fd28d3c04e" alt="Demo Cardápio" width="100%">
         <br/><br/>
         <p>
           Geração de cardápios personalizados com base nos inputs do usuário, utilizando Algoritmo Genético.
