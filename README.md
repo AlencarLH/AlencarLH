@@ -4,7 +4,6 @@
 
 Here are some ideas to get you started:
 -->
-
 <div align="center">
   <samp>
     🌌 Enthusiast of Unix systems, data engineering, low-level and open-source applications.
@@ -40,8 +39,14 @@ Here are some ideas to get you started:
         </p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">
+        <br/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+        <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white">
+        <br/>
         <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
-        <br/><br/>
+        <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white">
+        <img src="https://img.shields.io/badge/PyPortfolioOpt-800080?style=flat-square&logo=python&logoColor=white">
+        <br/><br/>  
         <a href="https://github.com/AlencarLH/PortfolioOptimization">
           <img src="https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white">
         </a>
@@ -57,15 +62,15 @@ Here are some ideas to get you started:
         <br/><br/>
         <p>
           Geração de cardápios personalizados com base nos inputs do usuário, utilizando Algoritmo Genético.
-        </p>
+        </p>    
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
         <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
-        <br/><br/>
+        <br/><br/>      
         <a href="https://github.com/AlencarLH/PlanejamentoAlimentar">
           <img src="https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white">
         </a>
-        <a href="https://github.com/AlencarLH/PortfolioOptimization">
+        <a href="https://planejamentoalimentar.streamlit.app/">
           <img src="https://img.shields.io/badge/Demo_Online-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
         </a>
       </div>
