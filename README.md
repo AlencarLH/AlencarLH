@@ -58,7 +58,8 @@ Here are some ideas to get you started:
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Gerador de Cardápios com Algoritmo Genético 🍎</h3>
+      <h3 align="center">Gerador de Cardápios com 
+        Algoritmo Genético 🍎</h3>
       <div align="center">
         <img src="https://github.com/user-attachments/assets/ef56824b-3029-484c-bd14-04fd28d3c04e" alt="Demo Cardápio" width="100%">
         <br/><br/>
