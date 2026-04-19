@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 <div align="center">
   <samp>
     🌌 Enthusiast of Unix systems, data engineering, low-level and open-source applications.
+     - Data Engineer -
   </samp>
   <br/><br/>
 
