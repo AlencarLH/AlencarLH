@@ -7,12 +7,12 @@ Here are some ideas to get you started:
 
 
 
-
+<h2> - Data Engineer -</h2>
 
 <div align="center">
   <samp>
     🌌 Enthusiast of Unix systems, data engineering, low-level and open-source applications.
-     - Data Engineer -
+    
   </samp>
   <br/><br/>
 
