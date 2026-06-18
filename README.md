@@ -1,4 +1,3 @@
-
 <!--
 **AlencarLH/AlencarLH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -43,7 +42,32 @@ Here are some ideas to get you started:
 
   <table align="center">
   <tr>
-    <!-- myFinance-->
+    <td width="50%" valign="top">
+      <h3 align="center">Semelhança de votos e financiamento</h3>
+      <div align="center">
+        <img src="https://raw.githubusercontent.com/AlencarLH/afinidade_deputados/main/assets/preview.png" alt="Demo do painel de votos" width="100%">
+        <br/><br/>
+        <p>
+          Pipeline de dados que analisa o comportamento de votos da câmara e cruza com o financiamento de campanhas usando ML.
+        </p>    
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white">
+        <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=Apache%20Spark&logoColor=white">
+        <br/>
+        <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white">
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+        <br/>
+        <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
+        <img src="https://img.shields.io/badge/Quarto-4B9ECA?style=flat-square&logo=quarto&logoColor=white">
+        <br/><br/>      
+        <a href="https://github.com/AlencarLH/afinidade_deputados">
+          <img src="https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+        <a href="https://alencarlh.github.io/afinidade_deputies/painel.html">
+          <img src="https://img.shields.io/badge/Demo_Online-FF4B4B?style=for-the-badge&logo=html5&logoColor=white">
+        </a>
+      </div>
+    </td>
     <td width="50%" valign="top">
       <h3 align="center">MyFinance: Controle de Finanças 💰</h3>
       <div align="center">
@@ -69,7 +93,8 @@ Here are some ideas to get you started:
         </a>
       </div>
     </td>
-    <!-- Portfolio-->
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Otimização de Portfólios 📈</h3>
       <div align="center">
@@ -96,9 +121,6 @@ Here are some ideas to get you started:
         </a>
       </div>
     </td>
-  </tr>
-  <tr>
-    <!--  Menu -->
     <td width="50%" valign="top">
       <h3 align="center">Gerador de Cardápios com Algoritmo Genético 🍎</h3>
       <div align="center">
@@ -119,32 +141,5 @@ Here are some ideas to get you started:
         </a>
       </div>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Semelhança de votos e financiamento</h3>
-      <div align="center">
-        <img src="https://raw.githubusercontent.com/AlencarLH/afinidade_deputados/main/assets/preview.png" alt="Demo do painel de votos" width="100%">
-        <br/><br/>
-        <p>
-          Pipeline de dados que analisa o comportamento de votos da câmara e cruza com o financiamento de campanhas usando ML.
-        </p>    
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white">
-        <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=Apache%20Spark&logoColor=white">
-        <br/>
-        <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white">
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
-        <br/>
-        <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
-        <img src="https://img.shields.io/badge/Quarto-4B9ECA?style=flat-square&logo=quarto&logoColor=white">
-        <br/><br/>      
-        <a href="https://github.com/AlencarLH/afinidade_deputados">
-          <img src="https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white">
-        </a>
-        <a href="https://alencarlh.github.io/afinidade_deputados/painel.html">
-          <img src="https://img.shields.io/badge/Demo_Online-FF4B4B?style=for-the-badge&logo=html5&logoColor=white">
-        </a>
-      </div>
-    </td>
-
   </tr>
 </table>
