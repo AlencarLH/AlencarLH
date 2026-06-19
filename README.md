@@ -63,7 +63,7 @@ Here are some ideas to get you started:
         <a href="https://github.com/AlencarLH/afinidade_deputados">
           <img src="https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white">
         </a>
-        <a href="https://alencarlh.github.io/afinidade_deputies/painel.html">
+        <a href="https://alencarlh.github.io/afinidade_deputados/painel.html">
           <img src="https://img.shields.io/badge/Demo_Online-FF4B4B?style=for-the-badge&logo=html5&logoColor=white">
         </a>
       </div>
